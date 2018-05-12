@@ -1,0 +1,27 @@
+_repo: Fishing-in-British-ColumbiaWith-a-Chapter-on-Tuna-Fishing-at-Santa-Catalina_28719
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lambert, Thomas Wilson
+    gutenberg_agent_id: '33502'
+    url: http://www.gutenberg.org/2009/agents/33502
+description: ''
+gutenberg_issued: '2009-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28719'
+  lccn: '13000076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fishing -- British Columbia'
+- !lcc 'SH'
+title: 'Fishing in British Columbia
+
+  With a Chapter on Tuna Fishing at Santa Catalina'
+url: http://www.gutenberg.org/ebooks/28719
